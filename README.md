@@ -4,12 +4,12 @@ following are uses of our project:
 	1) Maintaining tasks to do
 	2) Update and delete tasks
 # Screenshots:
-Login screen where user can login and if he/she doesn’t have the Account he/she can create Account by clicking on the signup button.
+<b><p>Login screen<b> where user can login and if he/she doesn’t have the Account he/she can create Account by clicking on the signup button.</p><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/login.png'><br>
-Signup screen let the user to sign up into the system<br>
+<b><p>Signup screen<b> let the user to sign up into the system</p><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/signup.png'><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/save_task.png'><br>
-Add Task Window<br>
+	<b><p>Add Task Window</p><b><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/task_add.png'><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/tasklist.png'><br>
 <img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/update.png'><br>
