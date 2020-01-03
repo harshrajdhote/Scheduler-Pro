@@ -5,14 +5,14 @@ following are uses of our project:
 	2) Update and delete tasks
 # Screenshots:
 Login screen where user can login and if he/she doesn’t have the Account he/she can create Account by clicking on the signup button.
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/login.png'>
-Signup screen let the user to sign up into the system
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/signup.png'>
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/save_task.png'>
-Add Task Window
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/task_add.png'>
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/tasklist.png'>
-<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/update.png'>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/login.png'><br>
+Signup screen let the user to sign up into the system<br>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/signup.png'><br>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/save_task.png'><br>
+Add Task Window<br>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/task_add.png'><br>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/tasklist.png'><br>
+<img src = 'https://github.com/harshrajdhote/Scheduler-Pro/blob/master/img/update.png'><br>
 # Technologies used:
 Front end- JavaFX, JFeonix
 Backend- Mysql
